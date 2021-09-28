@@ -5,7 +5,9 @@ It is a simple Java-based hangman game.The player has to guess the hidden word b
 To see how it looks like view images in image folder.
 
 
-To run it, download the files and run the Hangman.java file
+Run the following command inside the project:
+1. java *.java
+2. javac -cp . Build
 
 
 ---
