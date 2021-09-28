@@ -6,8 +6,8 @@ To see how it looks like view images in image folder.
 
 
 Run the following command inside the project:
-1. java *.java
-2. javac -cp . Build
+1. javac *.java
+2. java -cp . Build
 
 
 ---
