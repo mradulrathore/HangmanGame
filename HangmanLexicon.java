@@ -5,7 +5,7 @@ public class HangmanLexicon{
 	public HangmanLexicon()
 	{
 		try{
-			File file=new File("/home/mradul/Desktop/Project1/HangmanLexicon.txt");
+			File file=new File("HangmanLexicon.txt");
 			BufferedReader br = new BufferedReader(new FileReader(file)); 
 			while(true)
 			{
